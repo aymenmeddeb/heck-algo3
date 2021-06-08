@@ -1,0 +1,33 @@
+algorithme produit scalaire
+procedure dot_product(v1:intger,v2:integer)
+var ps:=0
+begin
+for i:=0,i<length n-1,i++
+  for j:=0,j<length n-1,j++
+ps=v[i]*v[j]
+end
+
+function dot product(v1:intger,v2:integer):integer
+var ps:=0
+begin
+begin
+for i:=0,i<length n-1,i++
+  for j:=0,j<length n-1,j++
+ps=v[i]*v[j]
+return ps
+end
+
+algorithmre produit scalaire
+var n:=0
+i:=0
+j:=0
+ps:=0
+x:=boolean
+begin
+for i:=0,i<length n-1,i++
+  for j:=0,j<length n-1,j++
+ps:=procedure dot_product
+if ps=0
+return x="true"
+else x="false"
+end
